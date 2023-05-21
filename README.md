@@ -1,2 +1,2 @@
-# CURSO-PROGRAMACION
-REPOSITORIO DE PRUEBA DEL CURSO DE PROGRAMACION
+carlos arteaga mora
+este documento es de prueba para verificar repositorios
